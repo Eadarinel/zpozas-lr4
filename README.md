@@ -12,7 +12,7 @@ Empire — это фреймворк для постэксплуатации и 
 ![картинко](https://github.com/Eadarinel/zpozas-lr4/blob/main/lr4_img/1.png)
 
 Empire разворачивает веб-интерфейс Starkiller, доступный из браузера в качестве замены CLI-интерфейса PowerShell Empire:
-[картинко](https://github.com/Eadarinel/zpozas-lr4/blob/main/lr4_img/2.png)
+![картинко](https://github.com/Eadarinel/zpozas-lr4/blob/main/lr4_img/2.png)
 
 Ключевые компоненты:
 1. Listener – служба, локально запускающая прослушивание трафика по заданному порту. Необходима для связи заражённого хоста с CnC сервером.
