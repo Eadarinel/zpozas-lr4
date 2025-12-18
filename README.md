@@ -11,7 +11,7 @@ Empire — это фреймворк для постэксплуатации и 
 Установленный и запущенный сервер Empire:
 ![картинко](https://github.com/Eadarinel/zpozas-lr4/blob/main/lr4_img/1.png)
 
-Empire разворачивает веб-интерфейс Starkiller, доступный из браузера в качестве замены CLI-интерфейса PowerShell Empire:
+Empire разворачивает веб-интерфейс Starkiller, доступный из браузера в качестве замены CLI-интерфейса Empire:
 ![картинко](https://github.com/Eadarinel/zpozas-lr4/blob/main/lr4_img/2.png)
 
 Ключевые компоненты:
